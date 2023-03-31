@@ -1,0 +1,5 @@
+/* External style sheet */
+p.external {
+	font-weight: bold;
+	text-decoration: underline;
+}

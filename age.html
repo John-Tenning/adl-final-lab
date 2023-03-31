@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to the Site</title>
+</head>
+<body>
+	<h1>Welcome to the Site</h1>
+	<p>Please enter your name and age:</p>
+	<form>
+		<label for="name">Name:</label>
+		<input type="text" id="name" name="name" required><br>
+
+		<label for="age">Age:</label>
+		<input type="number" id="age" name="age" required><br>
+
+		<input type="button" value="Submit" onclick="checkAge()">
+	</form>
+
+	<p id="message"></p>
+
+	<script src="age.js"></script>
+</body>
+</html>
