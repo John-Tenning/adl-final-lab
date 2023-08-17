@@ -1,47 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T15:49:48.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="F4DkLP-OwXoKgR9RVghM" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T16:22:51.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4pAXRcXC3plHrlUwd8XR" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="vaostGW_WSVgU1aV7aeb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-0" target="vaostGW_WSVgU1aV7aeb-1">
+        <mxCell id="vaostGW_WSVgU1aV7aeb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-1" target="vaostGW_WSVgU1aV7aeb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-0" value="Scrape data using Instagram API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-1" target="vaostGW_WSVgU1aV7aeb-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-1" value="Create Dataset" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vaostGW_WSVgU1aV7aeb-1" value="Scrape data using Instagram API" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-3" target="vaostGW_WSVgU1aV7aeb-5">
+        <mxCell id="vaostGW_WSVgU1aV7aeb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-3" target="vaostGW_WSVgU1aV7aeb-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-3" target="vaostGW_WSVgU1aV7aeb-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-3" target="0ueiWAUHvJ0s8Ii0oMRL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="474" y="170" />
+              <mxPoint x="291" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-3" value="Perform EDA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-3" target="0ueiWAUHvJ0s8Ii0oMRL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="474" y="170" />
+              <mxPoint x="680" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vaostGW_WSVgU1aV7aeb-3" value="Generate Dataset" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-5" value="Visualisation of Data" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vaostGW_WSVgU1aV7aeb-5" value="Perform EDA" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-8" target="vaostGW_WSVgU1aV7aeb-10">
+        <mxCell id="vaostGW_WSVgU1aV7aeb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.394;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0ueiWAUHvJ0s8Ii0oMRL-4" target="vaostGW_WSVgU1aV7aeb-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="301" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-10" target="0ueiWAUHvJ0s8Ii0oMRL-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-8" value="Train the dataset with various models" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="411" y="190" width="126" height="70" as="geometry" />
+        <mxCell id="vaostGW_WSVgU1aV7aeb-10" value="Perform Prompt Engineering on the Results" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414" y="341" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaostGW_WSVgU1aV7aeb-10" target="vaostGW_WSVgU1aV7aeb-12">
+        <mxCell id="vaostGW_WSVgU1aV7aeb-12" value="Use prompts and Gen AI to create personalised ADs" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="411" y="540" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-4" value="Use Similarity Index to find related products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="210" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0ueiWAUHvJ0s8Ii0oMRL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="685" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-5" value="Use Clustering to find Aesthetics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="210" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0ueiWAUHvJ0s8Ii0oMRL-9" target="vaostGW_WSVgU1aV7aeb-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-10" value="Perform Prompt Engineering on the Results" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vaostGW_WSVgU1aV7aeb-12" value="Use prompts and Gen AI to create personalised ADs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="411" y="410" width="126" height="70" as="geometry" />
+        <mxCell id="0ueiWAUHvJ0s8Ii0oMRL-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Generate Prompts&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
