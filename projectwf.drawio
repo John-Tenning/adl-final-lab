@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T16:29:54.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="KPLpLIcFeHeSuFvqudNu" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T16:37:52.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bz2M88wPx6XQNpoTrbuZ" version="21.6.8" type="github">
   <diagram name="Page-1" id="wX1qeYZDxbCJPSu4Nzbk">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-1" target="taSrKxM5K1p3QI2_a-Mc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-1" value="Data Collection and Preprocessing&lt;span id=&quot;docs-internal-guid-44e85d8d-7fff-0df9-0705-66a4bce79e6f&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-44e85d8d-7fff-0df9-0705-66a4bce79e6f&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-3" target="taSrKxM5K1p3QI2_a-Mc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-3" target="taSrKxM5K1p3QI2_a-Mc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-3" value="Data Analysis and Feature Extraction" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-5" target="taSrKxM5K1p3QI2_a-Mc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-5" value="Perform Stock Prediction using ML" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-7" target="taSrKxM5K1p3QI2_a-Mc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-7" value="Options Strategy Recommendation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-9" target="taSrKxM5K1p3QI2_a-Mc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-9" value="Risk Assessment and Classification" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-12" target="taSrKxM5K1p3QI2_a-Mc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-12" value="Trading Strategy Generation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-14" target="taSrKxM5K1p3QI2_a-Mc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-14" value="Backtesting and Evaluation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-16" value="Visualization and Reporting" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taSrKxM5K1p3QI2_a-Mc-19" target="taSrKxM5K1p3QI2_a-Mc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-19" value="Dataset from source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="taSrKxM5K1p3QI2_a-Mc-21" value="Perform EDA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
